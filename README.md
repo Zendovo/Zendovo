@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zendovo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nuxt.js
 - 📫 How to reach me kumarh664@gmail.com
 
 <!---
