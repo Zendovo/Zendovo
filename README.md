@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zendovo
 - 👀 I’m interested in web development, I primarily do backend development - in node.js and python (django)
 - 👀 I also know my way around Docker, NGINX and Linux
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning low-level concepts including database and multithreading
 - 📫 How to reach me kumarh664@gmail.com
 
 <!---
